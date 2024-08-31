@@ -17,3 +17,7 @@ The dataset used for this analysis includes over 8,000 titles, covering a wide r
 
   
 [click on this to interact with my dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzA0YmQ0ZWItODA3Yy00Y2UzLWE4OGMtYTkyZTEwNmU4ZDliIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+## Project Workflow
+A Project Workflow provides a good structure for every data analytics project. It helps to establish a clear roadmap of sequential steps from the initial problem to the final insights. This keeps the project organized and aligned with goals. It also outlines tasks within each project phase, preventing important elements from being overlooked and making the process more efficient. The workflow for this project is shown below:
+
