@@ -7,10 +7,10 @@ This project was undertaken to analyze and visualize Netflix's extensive content
 # Dataset 
 The dataset used for this analysis includes over 8,000 titles, covering a wide range of attributes such as the type of content (Movie or TV Show), director, cast, country of origin, release year, rating, duration, and the date the content was added to the platform. This rich dataset serves as the foundation for the insights generated through the analysis:
 
-Key Focus Areas:
+**Key Focus Areas:**
 
-Content Type Distribution: Exploring the balance between movies and TV shows in Netflix’s library.
-Geographical Insights: Identifying the top countries contributing to Netflix's content pool.
-Trends Over Time: Analyzing how Netflix's content releases have evolved from 2014 to 2024.
-Content Ratings: Understanding the distribution of content ratings and what it reveals about audience targeting.
-Recent Additions: Highlighting the most recent content added to the platform, showcasing Netflix’s current focus.
+- Content Type Distribution: Exploring the balance between movies and TV shows in Netflix’s library.
+- Geographical Insights: Identifying the top countries contributing to Netflix's content pool.
+- Trends Over Time: Analyzing how Netflix's content releases have evolved from 2014 to 2024
+- Content Ratings: Understanding the distribution of content ratings and what it reveals about audience targeting.
+- Recent Additions: Highlighting the most recent content added to the platform, showcasing Netflix’s current focus.
