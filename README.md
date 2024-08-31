@@ -32,7 +32,7 @@ The primary objective of this project was to analyze Netflix's content library t
 - Data Source: The dataset was sourced from Kaggle, containing detailed information about Netflix titles, including content type (Movie or TV Show), director, cast, country, release year, rating, duration, and date added to the platform.
 - Data Cleaning: The data was cleaned to handle missing values and ensure consistency across the dataset.
 
-**3. Data Analysis/Visualization
+**3. Data Analysis/Visualization**
 
 - Tools Used: Power BI was utilized for data analysis and visualization due to its powerful interactive features.
 - Content Type Distribution: Visualized the breakdown of Movies vs. TV Shows to understand the platform's content balance.
@@ -40,6 +40,8 @@ The primary objective of this project was to analyze Netflix's content library t
 - Content Ratings: Analyzed the distribution of ratings to reveal the most common audience categories targeted by Netflix.
 - Trends Over Time: Tracked content release trends from 2014 to 2024, showing how Netflix's content offerings have evolved.
 - Recently Added Content: Highlighted the most recent titles added in the past two years to showcase the latest trends.
+
+ ![Netflix project](https://github.com/Debbiefolorunsho/Netflix-Content-Analysis-/blob/main/Netflix%20project.pdf%202_page-0001.jpg?raw=true)
 
  
 **4. Interpretation/Reporting**
