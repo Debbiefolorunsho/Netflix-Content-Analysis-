@@ -14,3 +14,6 @@ The dataset used for this analysis includes over 8,000 titles, covering a wide r
 - Trends Over Time: Analyzing how Netflix's content releases have evolved from 2014 to 2024
 - Content Ratings: Understanding the distribution of content ratings and what it reveals about audience targeting.
 - Recent Additions: Highlighting the most recent content added to the platform, showcasing Netflix’s current focus.
+
+  
+[click on this to interact with my dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzA0YmQ0ZWItODA3Yy00Y2UzLWE4OGMtYTkyZTEwNmU4ZDliIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
